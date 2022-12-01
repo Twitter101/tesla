@@ -3,3 +3,4 @@
 #Let the new graphic interface be gold
 #And the logo be plated
 #Author: Simon Aba
+joe and james
